@@ -5,8 +5,8 @@ found an app notification is send. When clicked on the notification alert it ope
 
 <!-- Steps to install the App -
 
-<!-- APK file can be downloaded from - https://github.com/rahult001/VaccineNotifier/blob/master/app/release/app-release.apk
- -->
+# APK file can be downloaded from - https://github.com/Duchies/Vaccine-Notifier-Android-app/releases/download/v0.1/Vaccine.Notifier.apk
+
 <!-- Based on your Android version you may need to follow below steps to install an APK -
 1) Download the APK.
 2) You can either navigate to your Download folder using a file browser app or simply begin the install by clicking on the completed download in your mobile browser.
