@@ -13,20 +13,8 @@ Based on your Android version you may need to follow below steps to install an A
 3) Android will ask you to grant permission to either the file browser or your web browser to install the app. Grant the permission and it should bounce 
 you back to the installation screen. If not, navigate back to your Download folder after granting the permission to try again.The app should safely install.
 
-OR 
-
-1) Download the APK.
-2) Navigate to your phone settings menu then to the security settings. Enable the Install from Unknown Sources option.
-3) Use a file browser and navigate to your download folder. Tap the APK to begin the installation process.
-4) The app should safely install.
-
-For any feedback, issues, enhancement requests please create a GitHub issue or https://twitter.com/The_RahulTiwari
-
 #App Screenshots
 
-![image](https://user-images.githubusercontent.com/7280275/117719514-1dcfd700-b1fb-11eb-97c5-037df19710ed.png)
-![image](https://user-images.githubusercontent.com/7280275/117719563-2a542f80-b1fb-11eb-8d53-86ad46db9fbc.png)
-![image](https://user-images.githubusercontent.com/7280275/117719601-37711e80-b1fb-11eb-92e0-6641f7fbef94.png)
-![image](https://user-images.githubusercontent.com/7280275/117719627-3dff9600-b1fb-11eb-9109-0aa5bc0179c4.png)
-![image](https://user-images.githubusercontent.com/7280275/117719648-43f57700-b1fb-11eb-83ea-72bd6244e3da.png)
+![image](https://raw.githubusercontent.com/Duchies/PhotoResources/master/covid_vaccine_apk_picks.png)
+
 
