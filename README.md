@@ -1,5 +1,6 @@
 # Vaccine-Notifier-app brief
-Vaccine Notifier is an android application which can help you find a vaccination slot based on your selected pincode and age group ,vaccine type,cost type and age group.
+Vaccine Notifier is an android application which can help you find a vaccination slot based on your selected pincode and age group ,vaccine type and cost type.
+
 - Upon selection of check box in App starts a background service which keeps checking the cowin API periodically and as soon as an available slot is 
 found an app notification is send. When clicked on the notification alert it opens up an activity with the details of the available slots.
 
